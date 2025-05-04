@@ -30,7 +30,7 @@ Welcome to my GitHub profile! Here's a little about me:
 ![Raheem's GitHub stats](https://github-readme-stats.vercel.app/api?username=raheem-dotgit&show_icons=true&theme=radical)
 
 ## 📫 How to Reach Me
-- Email: [raheem@example.com](mailto:raheem@example.com)
+- Email: [raheem@example.com](mailto:raheem.dev7@gmail.com)
 - LinkedIn: [Raheem's LinkedIn](www.linkedin.com/in/ab-raheem)
 
 

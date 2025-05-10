@@ -15,6 +15,7 @@ Welcome to my GitHub profile! Here's a little about me:
 - Frameworks & Libraries:
   - React.js ⚛️
   - Node.js 🌿
+  - Django 🐍
 - Tools & Platforms:
   - Docker 🐳
   - GitHub Actions ⚙️

@@ -49,9 +49,9 @@ I'm a passionate developer who loves building beautiful, performant web applicat
 
 <div align="center">
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=raheem-dotgit&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=bf91f3&area=true&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=raheem-dotgit&theme=tokyonight&hide_border=true&background=1A1B27&stroke=70A5FD&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD)](https://git.io/streak-stats)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raheem-dotgit&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=raheem-dotgit&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=bf91f3&area=true&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raheem-dotgit&layout=compact&theme=tokyonight&hide_border=true)
 

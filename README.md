@@ -10,7 +10,7 @@
 
 ### About Me
 
-I build fast, sharp software: web apps with Next.js and React, desktop apps with Rust.
+I build fast, sharp software: web apps with Next.js and React, desktop apps with Rust.\
 No fluff, no bloat. If it doesn't ship and work, it doesn't count.
 
 ---

@@ -67,6 +67,7 @@ I'm a passionate developer who loves building beautiful, performant web applicat
 [![X/Twitter](https://img.shields.io/badge/X-@dev__raheem-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/dev_raheem)
 [![Email](https://img.shields.io/badge/Email-raheem.dev7@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raheem.dev7@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-raheem--dotgit-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheem-dotgit)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-rahym-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/rahym)
 
 </div>
 

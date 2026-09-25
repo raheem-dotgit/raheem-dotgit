@@ -36,6 +36,7 @@ I'm a passionate developer who loves building beautiful, performant web applicat
 
 | Project | Description | Tech |
 |---------|-------------|------|
+| [Pastel](https://github.com/raheem-dotgit/pastel) | Win+V style clipboard history manager for Linux | Rust, GTK4, libadwaita |
 | [Brillance SaaS Landing](https://github.com/raheem-dotgit/brillance-saas-landing-page) | Modern SaaS landing page with smooth animations | Next.js 16, React 19, Tailwind 4 |
 | [Cyberpunk Dashboard](https://github.com/raheem-dotgit/cyberpunk-dashboard) | Futuristic tactical operations dashboard | Next.js 16, Recharts, Radix UI |
 | [Neural Link Landing](https://github.com/raheem-dotgit/neural-link-landing) | Neuralink-inspired landing with 3D brain visualization | Next.js 16, Three.js, WebGL |

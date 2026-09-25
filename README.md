@@ -2,7 +2,7 @@
 
 # Hi there, I'm Raheem
 
-**Full-Stack Developer | UI/UX Enthusiast | Creative Coder**
+**Full-Stack Engineer | Web & Desktop | Built to Ship**
 
 </div>
 
@@ -10,12 +10,8 @@
 
 ### About Me
 
-I'm a passionate developer who loves building beautiful, performant web applications. I specialize in modern frontend technologies and creating immersive user experiences.
-
-- Building modern web applications with **Next.js 16**, **React 19**, and **TypeScript**
-- Passionate about **UI/UX design**, **3D web experiences**, and **creative coding**
-- Love experimenting with **Three.js**, **WebGL**, and **Framer Motion**
-- Always learning and exploring new technologies
+I build fast, sharp software: web apps with Next.js and React, desktop apps with Rust.
+No fluff, no bloat. If it doesn't ship and work, it doesn't count.
 
 ---
 

@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Raheem <img src="assets/octocat.gif" width="56" alt="Pixel-art Octocat">
+# Hi there, I'm Raheem <img src="assets/octocat.gif" width="72" alt="Pixel-art Octocat">
 
 **Full-Stack Engineer | Web & Desktop | Built to Ship**
 

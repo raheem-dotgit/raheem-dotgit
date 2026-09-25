@@ -24,6 +24,7 @@ No fluff, no bloat. If it doesn't ship and work, it doesn't count.
 ![Node.js](https://img.shields.io/badge/Node.js-18+-339933?style=flat-square&logo=node.js)
 ![Three.js](https://img.shields.io/badge/Three.js-3D-000000?style=flat-square&logo=three.js)
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=flat-square&logo=python)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker)
 
 ---

@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/octocat.gif" width="120" alt="Pixel-art Octocat">
+
 # Hi there, I'm Raheem
 
 **Full-Stack Engineer | Web & Desktop | Built to Ship**
